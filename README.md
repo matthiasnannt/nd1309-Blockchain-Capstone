@@ -5,7 +5,6 @@ The capstone will build upon the knowledge you have gained in the course in orde
 ## How to run locally
 
 Make sure you have ganache / ganache-cli installed and running on port 8545.
-Install truffle gloablly with `npm install -g truffle@5.5`
 
 Run `npm install` to install all dependencies
 
